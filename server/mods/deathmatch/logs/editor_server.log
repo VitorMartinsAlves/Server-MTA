@@ -1,0 +1,16 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2020-03-28 17:33:28] Server stopped!
+[2020-03-28 17:33:28] Stopping resources...
+[2020-03-28 17:33:28] Closing SQLite3 database

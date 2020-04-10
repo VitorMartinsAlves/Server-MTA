@@ -1,0 +1,6 @@
+<settings>
+    <setting name="admin.ip2cUpdateTime" value="[1584945652]"></setting>
+    <setting name="*[cinema].cinemaACLAccess" value='[&quot;user.DznWaves&quot;]'></setting>
+    <setting name="*[cinema].[cinema].cinemaACLAccess" value='[&quot;&quot;]'></setting>
+    <setting name="*deathpickups.only_current" value="[false]"></setting>
+</settings>
