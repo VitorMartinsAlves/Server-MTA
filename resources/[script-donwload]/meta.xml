@@ -1,0 +1,20 @@
+<meta>
+	<download_priority_group>1</download_priority_group>
+	<oop>true</oop>
+	<info author = "TypeR" name="Mod Loader" version="1.0" type="script" />
+
+	<script src = "client.lua" type = "client"  cache = "false"  />
+	<script src = "server.lua" type = "server"  cache = "false" />    	
+ 
+	<!-- CARROS -->
+	<file src = "carros/NaveDaRay.txd"  download = "false" model = "581" />
+	<file src = "carros/NaveDaRay.dff"  download = "false" model = "581" />	
+
+	<!-- FONTE -->
+	<file src = "files/font/font.ttf" />
+	
+	<!-- SKIN -->
+	<file src = "skins/rey.txd" download = "false" model = "9" />
+	<file src = "skins/rey.dff" download = "false" model = "9" />
+
+</meta>
