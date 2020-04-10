@@ -1,0 +1,7 @@
+<csoki>
+
+	<script src="torles.lua" type="client" />
+	
+	<script src="fix.lua" type="client"/>
+	
+</csoki>
